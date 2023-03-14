@@ -7,5 +7,26 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "personalizacion": {
+    ".splashPersonalizado": {
+        "background-image": "url('../public/assets/images/intv/splash.png')"
+    },
+    ".backgroundPersonalizado": {
+        "background-image": "url('../public/assets/images/intv/background.png')"
+    },
+    ".logoPersonalizado": {
+        "content": "url('../public/assets/images/intv/logo.png')",
+        "width":"20%"
+    },
+    ".contenedorLogo": {
+        "justify-content": "center"
+    },
+    ".contenedorHora": {
+        "display": "block"
+    },
+    ".temaPersonalizado": {
+        "background-color": "#000"
+    }
+}
 }
