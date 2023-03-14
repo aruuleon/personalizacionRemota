@@ -19,10 +19,10 @@
         "content": "url('../public/assets/images/intv/logo.png')",
         "width":"20%"
     },
-    ".contenedorLogo": {
+    ".contenedorLogoPersonalizado": {
         "justify-content": "center"
     },
-    ".contenedorHora": {
+    ".contenedorHoraPersonalizado": {
         "display": "block"
     },
     ".temaPersonalizado": {
